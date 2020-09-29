@@ -13,3 +13,4 @@ def dealer():
             card = "K"
             hand = hand + "K"
 
+# Yeah whatever. 
