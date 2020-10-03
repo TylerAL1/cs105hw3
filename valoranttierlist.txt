@@ -3,10 +3,10 @@ Valorant Tier List
 #S-List
 Breach 
 Brimstone
-Sova
+Omen
 
 #A-List 
-Omen
+Sova
 Cypher
 Phoenix
 
