@@ -10,3 +10,7 @@ Omen
 Cypher
 Phoenix
 
+#B-List
+Reyna
+Killjoy
+Jett
