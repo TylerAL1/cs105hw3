@@ -1,25 +1,26 @@
-Valorant Tier List
+Valorant Tier List Spike Rush
 
 #S-List
-Breach 
-Brimstone
-Omen
-
-#A-List 
-Sova
-Cypher
+Breach
+Sova 
 Phoenix
 
-#B-List
+#A-List 
+Omen
 Reyna
-Killjoy
+Brimstone
+
+#B-List
+Raze
+Cypher
 Jett
 
 #C-List
-Sage
+Killjoy
 Viper
 
 #D-List 
-Raze
+Sage
 
-Valorant is a competitive 5v5 first person shooter that came out this year. Fun game, although some of the characters are clearly better than others. 
+Valorant is a competitive 5v5 first person shooter that came out this year. Fun game,
+although some of the characters are better than others. This is the tier list for Spike Rush.  
