@@ -14,3 +14,7 @@ Phoenix
 Reyna
 Killjoy
 Jett
+
+#C-List
+Sage
+Viper
